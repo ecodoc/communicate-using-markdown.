@@ -23,3 +23,7 @@
     <title>Practicalized DOM</title>
   </head> 
 ```
+- [ ] entered name
+- [ ] entered sex
+- [ ] entered age
+- [x] birthday 
